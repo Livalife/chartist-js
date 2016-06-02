@@ -2,12 +2,12 @@
   "name": "chartist",
   "title": "Chartist.js",
   "description": "Simple, responsive charts",
-  "version": "0.9.7",
+  "version": "0.9.7-adapt",
   "author": "Gion Kunz",
   "homepage": "https://gionkunz.github.io/chartist-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gionkunz/chartist-js.git"
+    "url": "https://github.com/adaptdk/chartist-js.git"
   },
   "bugs": {
     "url": "https://github.com/gionkunz/chartist-js/issues"
